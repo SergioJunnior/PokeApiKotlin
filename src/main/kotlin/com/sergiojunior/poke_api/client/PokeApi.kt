@@ -1,6 +1,9 @@
 package com.sergiojunior.poke_api.client
 
+
 import com.sergiojunior.poke_api.model.*
+import com.sergiojunior.poke_api.model.berries.*
+import com.sergiojunior.poke_api.model.contests.*
 
 interface PokeApi {
 

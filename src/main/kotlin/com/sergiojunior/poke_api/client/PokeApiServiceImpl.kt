@@ -1,6 +1,5 @@
 package com.sergiojunior.poke_api.client
 
-import PokeApiService
 import com.google.gson.FieldNamingPolicy
 import com.google.gson.GsonBuilder
 import com.google.gson.reflect.TypeToken

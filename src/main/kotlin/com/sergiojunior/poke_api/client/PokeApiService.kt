@@ -1,4 +1,8 @@
+package com.sergiojunior.poke_api.client
+
 import com.sergiojunior.poke_api.model.*
+import com.sergiojunior.poke_api.model.berries.*
+import com.sergiojunior.poke_api.model.contests.*
 import retrofit2.Call
 import retrofit2.http.GET
 import retrofit2.http.Path
